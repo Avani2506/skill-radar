@@ -1,0 +1,42 @@
+[
+    {
+      "job_title": "Senior Python Backend Engineer",
+      "company": "Stripe",
+      "location": "Remote, Global",
+      "salary": "$130k - $170k",
+      "skills": "Python, Docker, AWS, PostgreSQL",
+      "job_url": "https://weworkremotely.com"
+    },
+    {
+      "job_title": "Fullstack AI Engineer",
+      "company": "OpenAI Ecosystem",
+      "location": "Remote",
+      "salary": "$140,000/yr",
+      "skills": "FastAPI, React, TypeScript, Python",
+      "job_url": "https://weworkremotely.com"
+    },
+    {
+      "job_title": "Data Scientist & ML Ops",
+      "company": "Scale AI",
+      "location": "Remote, US",
+      "salary": "$150k - $190k",
+      "skills": "Python, Machine Learning, PyTorch, Docker",
+      "job_url": "https://weworkremotely.com"
+    },
+    {
+      "job_title": "React / Frontend Developer",
+      "company": "Vercel Ecosystem",
+      "location": "Worldwide",
+      "salary": "$110k - $135k",
+      "skills": "React, JavaScript, TypeScript, Tailwind",
+      "job_url": "https://weworkremotely.com"
+    },
+    {
+      "job_title": "Cloud Infrastructure Architect",
+      "company": "HashiCorp Partner",
+      "location": "Remote",
+      "salary": "$160k - $200k",
+      "skills": "AWS, Kubernetes, Docker, Go",
+      "job_url": "https://weworkremotely.com"
+    }
+  ]
